@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wish</string>
+    <string name="tv_game">Нажмитие на экран для начала игры</string>
+    <string name="wish">WISH</string>
+    <string name="annotation">играть только в большой и весёлой компании</string>
+    <string name="start_button">Начать</string>
+</resources>
